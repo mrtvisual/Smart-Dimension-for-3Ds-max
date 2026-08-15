@@ -20,10 +20,10 @@ A comprehensive, interactive, and high-precision measurement suite for Autodesk 
 - **Undo/Redo & Viewport Redraw Support:** Fully compatible with 3ds Max Undo stack and active viewport navigation[cite: 1].
 
 ## Installation
-1. Download the [MRT_SmartDimension_v1.0.zip](https://github.com/mrtvisual/Smart-Dimension-for-3Ds-max/raw/main/MRT_SmartDimension_v1.0.zip) file.
-2. Extract the archive and **drag and drop** the `.mcr` file directly into your 3ds Max viewport[cite: 1].
-3. Go to **Customize > Customize User Interface > Toolbars** tab[cite: 1].
-4. Under the `mrtTools` category, drag **"Smart Dimension"** onto your desired toolbar[cite: 1].
+1. Download the [mrtTools-Smart_Dimension_v1.0.zip](https://github.com/mrtvisual/Smart-Dimension-for-3Ds-max/raw/main/mrtTools-Smart_Dimension_v1.0.zip) file.
+2. Extract the archive and **drag and drop** the `.mcr` file directly into your 3ds Max viewport.
+3. Go to **Customize > Customize User Interface > Toolbars** tab.
+4. Under the `mrtTools` category, drag **"Smart Dimension"** onto your desired toolbar.
 
 ## Usage
 - Open **Smart Dimension** from your toolbar[cite: 1].
